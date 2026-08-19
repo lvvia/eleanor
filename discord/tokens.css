@@ -15,4 +15,6 @@
   --transition-speed: 0.25s;
   --transition-delay: 0.5s;
   --transition-easing: ease-in-out;
+
+  --max-bio-lines: 3;
 }

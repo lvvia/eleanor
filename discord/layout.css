@@ -110,3 +110,11 @@
     display: none;
   }
 }
+
+.maxBioHeight_f5f93a {
+    max-height: calc(var(--max-bio-lines) * 1.15em);
+}
+
+.descriptionClamp_f5f93a {
+    -webkit-line-clamp: var(--max-bio-lines);
+}
